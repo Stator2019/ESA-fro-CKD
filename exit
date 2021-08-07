@@ -1,0 +1,41 @@
+[33mcommit 99b223711f2ce56202602921460094b2969f282f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jerry Chen <chenjiangchen0830@gmail.com>
+Date:   Thu Jul 15 23:58:16 2021 +0800
+
+    做完 esa 用藥
+
+[33mcommit adf341d2f153b915b2e6487ad161300c052b9745[m
+Author: Jerry Chen <chenjiangchen0830@gmail.com>
+Date:   Sat Jul 3 03:55:34 2021 +0800
+
+    洗è第一次/骨æ發生時間
+
+[33mcommit f46cfb0287ddcb08af14ace63c26fea33ecb9c6d[m
+Author: Jerry Chen <chenjiangchen0830@gmail.com>
+Date:   Sun Jun 20 00:58:30 2021 +0800
+
+    已確定cohort;已合併門急診及住院用藥記錄
+
+[33mcommit 7ebbdc299561eaf86b189928948b75cdb7a54608[m
+Author: Jerry Chen <chenjiangchen0830@gmail.com>
+Date:   Tue Jun 15 00:23:07 2021 +0800
+
+    篩選年齡>20且修正icd10對應問題
+
+[33mcommit 45f73808fa87b6b25f2a2d342bc021aa282daf3f[m
+Author: Jerry Chen <chenjiangchen0830@gmail.com>
+Date:   Sun Jun 6 00:56:02 2021 +0800
+
+    concatenate opd, ipd, epd and correct icd10
+
+[33mcommit 9d67656d5845049856d5e9427df9b4b620151d19[m
+Author: Jerry Chen <chenjiangchen0830@gmail.com>
+Date:   Wed Jun 2 03:22:59 2021 +0800
+
+    created cohort just by icd
+
+[33mcommit e8a9ef91d88794e62a802d699122849ac297c9e3[m[33m ([m[1;31morigin_1/CKD[m[33m, [m[1;32mproposed-fixes[m[33m, [m[1;32mCKD[m[33m)[m
+Author: Jerry Chen <chenjiangchen0830@gmail.com>
+Date:   Tue Jun 1 22:43:01 2021 +0800
+
+    initial
